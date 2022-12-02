@@ -1,0 +1,21 @@
+{
+    "id":  "2ac8f68d-01e8-4078-872d-84f110f0910c",
+    "name":  "Task3",
+    "brief":  "AL Ability test Task 3",
+    "description":  "",
+    "publisher":  "Dynamics DEV Solutions",
+    "version":  "1.0.0.0",
+    "application":  "21.0.0.0",
+    "platform":  "21.0.0.0",
+    "dependencies":  [
+
+                     ],
+    "idRanges":  [
+                     {
+                         "to":  51499,
+                         "from":  51000
+                     }
+                 ],
+    "resourceExposurePolicy": {"allowDebugging":true},
+    "runtime":  "10.0"  
+}

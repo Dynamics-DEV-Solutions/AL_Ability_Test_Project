@@ -1,0 +1,9 @@
+{
+  "description": "Business Central",
+  "versionNo": "",
+  "country": "gb",
+  "onPrem": false,
+  "alwaysPull": false,
+  "enableSymbolLoading": false,
+  "premiumPlan": true
+}

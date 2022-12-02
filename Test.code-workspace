@@ -1,0 +1,35 @@
+{
+    "folders":  [
+        {
+            "path": "config"
+        },
+        {
+            "path": "ext1_task1"
+        },
+        {
+            "path": "ext2_task2"
+        },
+        {
+            "path": "ext3_task3"
+        },
+        {
+            "path": "ext4_task4"
+        }
+    ],
+    "settings":  {
+                     "al.enableCodeAnalysis":  true,
+                     "al.codeAnalyzers":  [
+
+                                          ],
+                     "CRS.OnSaveAlFileAction":  "Rename",
+                     "CRS.RemovePrefixFromFilename":  true,
+                     "CRS.RemoveSuffixFromFilename":  true,
+                     "CRS.FileNamePattern":  "\u003cObjectNameShort\u003e.\u003cObjectTypeShortPascalCase\u003e.al",
+                     "CRS.FileNamePatternExtensions":  "\u003cBaseNameShort\u003e.\u003cObjectTypeShortPascalCase\u003e.al",
+                     "CRS.FileNamePatternPageCustomizations":  "\u003cObjectNameShort\u003e.\u003cObjectTypeShortPascalCase\u003e.al",
+                     "CRS.RenameWithGit":  true,
+                     "CRS.ObjectNameSuffix":  "",
+                     "CRS.ObjectNamePrefix":  "P4IT",
+                     "CRS.ExtensionObjectNamePattern":  null
+                 }
+}

@@ -1,0 +1,16 @@
+{
+    "initialized":  "true",
+    "customer":  "Test",
+    "name":  "test",
+    "version":  "cld",
+    "startupObjectId":  1801,
+    "startupObjectType":  "Page",
+    "breakOnError":  true,
+    "bcContainerHelperPath":  "",
+    "appFolders":  [
+                       "ext1_task1",
+                       "ext2_task2",
+                       "ext3_task3",
+                       "ext4_task4"
+                   ]  
+}

@@ -1,0 +1,19 @@
+{
+    "version":  "0.2.0",
+    "configurations":  [
+                        {
+                            "name": "D365 Online Training Sandbox",
+                            "request": "launch",
+                            "type": "al",
+                            "environmentType": "Sandbox",
+                            "environmentName": "Training",
+                            "tenant": "dd557864-8bb4-4f6c-b750-c92bb690b6dd",
+                            "startupObjectId": 22,
+                            "startupObjectType": "Page",
+                            "breakOnError": true,
+                            "launchBrowser": true,
+                            "enableLongRunningSqlStatements": true,
+                            "enableSqlInformationDebugger": true,
+                        }
+                       ]
+}

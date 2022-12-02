@@ -1,0 +1,53 @@
+{
+    "id":  "a3a42def-2f5f-4364-be03-de52b452f8e6",
+    "name":  "Task3 (Test)",
+    "publisher":  "Partner4IT Ltd",
+    "brief":  "Test Suite",
+    "description":  "Test Suite",
+    "version":  "18.0.0.0",
+    "platform":  "18.0.0.0",
+    "application":  "18.0.0.0",    
+    "dependencies":  [
+                         {
+                             "id":  "2ac8f68d-01e8-4078-872d-84f110f0910c",
+                             "name":  "Task3",
+                             "publisher":  "Partner4IT Ltd",
+                             "version":  "18.0.0.0"
+                         },
+                         {
+                             "id":  "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+                             "publisher":  "Microsoft",
+                             "name":  "Library Assert",
+                             "version":  "18.0.0.0"
+                         },
+                         {
+                             "id":  "e7320ebb-08b3-4406-b1ec-b4927d3e280b",
+                             "publisher":  "Microsoft",
+                             "name":  "Any",
+                             "version":  "18.0.0.0"
+                         },
+                         {
+                             "id":  "23de40a6-dfe8-4f80-80db-d70f83ce8caf",
+                             "publisher":  "Microsoft",
+                             "name":  "Test Runner",
+                             "version":  "18.0.0.0"
+                         },
+                         {
+                             "id":  "5d86850b-0d76-4eca-bd7b-951ad998e997",
+                             "name":  "Tests-TestLibraries",
+                             "version":  "18.0.0.0",
+                             "publisher":  "Microsoft"
+                         }
+                     ],
+    "screenshots":  [
+
+                    ],
+    "idRanges":  [
+                     {
+                         "from": 99000,
+                         "to": 99010 
+                     }
+                 ],
+    "showMyCode":  true,
+    "runtime":  "6.0"
+}
